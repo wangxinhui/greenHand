@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class InsertSort {
 
     public static void main(String[] args) {
-        int[] a = {2,43,5,423,43,3,76,878765};
+        int[] a = {2,43,5,423,43,3,76,878765,1};
         System.out.println(Arrays.toString(insert_sort(a)));
     }
 
